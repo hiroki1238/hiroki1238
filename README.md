@@ -12,8 +12,6 @@
 - 🌱 I’m currently learning **Go, React, Next, Laravel and more.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hiro_sio_sen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hiro_sio_sen" height="30" width="40" /></a>
   <p align="left"> <a href="https://twitter.com/hiro_sio_sen" target="blank"><img src="https://img.shields.io/twitter/follow/hiro_sio_sen?logo=twitter&style=for-the-badge" alt="hiro_sio_sen" /></a> </p>
 </p>
 
