@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hiroki1238&show_icons=true&locale=en&layout=compact" alt="hiroki1238" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiroki1238&show_icons=true&locale=en" alt="hiroki1238" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hiroki1238&show_icons=true&locale=en&theme=github_dark alt="hiroki1238" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hiroki1238&" alt="hiroki1238" /></p>
 <br/>
