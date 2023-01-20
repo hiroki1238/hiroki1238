@@ -7,8 +7,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiroki1238&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiroki1238&theme=github_dark&utcOffset=8)
 <br />
-<h1 align="center">Hi 👋, I'm Hiroki1238</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hiroki1238&label=Profile%20views&color=0e75b6&style=flat" alt="hiroki1238" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiroki1238" alt="hiroki1238" /></a> </p>
 
