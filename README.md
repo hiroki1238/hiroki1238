@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a>https://github-stats-evirunurm.vercel.app/api/languages.js?username=hiroki1238</a>
+![](https://komarev.com/ghpvc/?username=hiroki1238)
 
 GitHub City 2022 : https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023<br />
 GitHub City 2022 : https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2022
