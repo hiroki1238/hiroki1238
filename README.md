@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=hiroki1238&color=721584&style=flat-square)
+![](https://komarev.com/ghpvc/?username=hiroki1238&color=721584&for-the-badge	)
 
 GitHub City 2022 : https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023<br />
 GitHub City 2022 : https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2022
