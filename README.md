@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=hiroki1238&color=721584&style=for-the-badge	)
 
-<p align="left"> <a href="https://twitter.com/hiro_sio_sen" target="blank"><img src="https://img.shields.io/twitter/follow/hiro_sio_sen?logo=twitter&style=for-the-badge" alt="hiro_sio_sen" /></a> </p>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiroki1238&theme=github_dark)
