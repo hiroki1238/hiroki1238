@@ -22,7 +22,7 @@
 <a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2022">GitHub City 2022</a><br />
 <a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023">GitHub City 2023</a><br />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&unique={true|1|on|yes})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu)
 
 <!--
 **hiroki1238/hiroki1238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
