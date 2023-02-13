@@ -26,7 +26,7 @@
 <br />
 <br />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=2)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=2&width=300)
 
 <!--
 **hiroki1238/hiroki1238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
