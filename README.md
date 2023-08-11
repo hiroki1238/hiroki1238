@@ -9,8 +9,8 @@
 </p>
 
 <p align="left"> 
-  <img alt="repos langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=github_dark" />
-  <img alt="commit Langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=github_dark" />
+  <img alt="repos langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=tokyonight" />
+  <img alt="commit Langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=tokyonight" />
 </p>
 <br />
 
@@ -56,12 +56,13 @@
 
 <br />
 <h3 align="left">GitHub City:</h3>
-<a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2022">GitHub City 2022</a><br />
-<a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023">GitHub City 2023</a><br />
-<br />
+<a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2022">2022 </a>
+<a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023"> 2023</a><br />
 <br />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=2&width=300)
+
+<br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiroki1238&repo=hiroki1238&theme=tokyonight&card)](https://github.com/hiroki1238/hiroki1238)
 
