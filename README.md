@@ -61,6 +61,9 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=4&width=420)
 
 <hr>
+<h3 align="left">Latest Blog Posts:</h3>
+
+<hr>
 <h3 align="left">About This Page:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiroki1238&repo=hiroki1238&theme=tokyonight&card)](https://github.com/hiroki1238/hiroki1238)
