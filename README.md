@@ -8,8 +8,10 @@
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroki1238&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=github_dark)
+<p align="left"> 
+  <img alt="repos langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=github_dark" />
+  <img alt="commit Langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=github_dark" />
+</p>
 <br />
 
 
