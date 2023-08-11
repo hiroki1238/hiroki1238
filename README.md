@@ -22,7 +22,7 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 <br />
 <h3 align="left">Connect with me:</h3>
-  <p align="left"> <a href="https://twitter.com/hiro_sio_sen" target="blank"><img src="https://img.shields.io/twitter/follow/hiro_sio_sen?logo=twitter&style=for-the-badge" alt="hiro_sio_sen" /></a> </p>
+  <p align="left"> <a href="https://twitter.com/hiro_sio_sen" target="blank"><img src="https://img.shields.io/twitter/follow/hiro_sio_sen?logo=twitter&style=for-the-badge" alt="hiro_sio_sen" /></a> <img height="32px" src="https://2.bp.blogspot.com/-4cDI5-IdyKs/WUdY336_nbI/AAAAAAABFAg/xxpZDJEt6ncUrMQwU7Ug-HQA8-eRI36eACLcBGAs/s400/pet_cat_sit.png" /></p>
 </p>
 <br />
 
