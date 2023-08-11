@@ -1,6 +1,6 @@
 ### Hi there 🐈
 
-![](https://komarev.com/ghpvc/?username=hiroki1238&color=721584&style=for-the-badge	)
+![](https://komarev.com/ghpvc/?username=hiroki1238&color=721584&style=flat-square)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiroki1238&theme=algolia&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/hiroki1238/github-profile-trophy)
 
