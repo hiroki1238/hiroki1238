@@ -12,19 +12,7 @@
   <img alt="repos langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=tokyonight" />
   <img alt="commit Langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=tokyonight" />
 </p>
-<br />
-
-
-- I’m currently learning **Go, Ruby, Rails, React** and more.
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> </a>
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
-<br />
-<h3 align="left">Connect with me:</h3>
-  <p align="left"> <a href="https://twitter.com/hiro_sio_sen" target="blank"><img src="https://img.shields.io/twitter/follow/hiro_sio_sen?logo=twitter&style=for-the-badge" alt="hiro_sio_sen" /></a> <img height="32px" src="https://2.bp.blogspot.com/-4cDI5-IdyKs/WUdY336_nbI/AAAAAAABFAg/xxpZDJEt6ncUrMQwU7Ug-HQA8-eRI36eACLcBGAs/s400/pet_cat_sit.png" /></p>
-</p>
-<br />
+<hr>
 
 <h3 align="left">Some Tools I Have Used and Learned:</h3>
 <p align="left">
@@ -53,16 +41,27 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="60" height="60"/> </a>
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="60" height="60"/> </a>
 </p>
+<br/>
+
+- I’m currently learning **Go, Ruby, Rails, React** and more.
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a>
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> </a>
+<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> </a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 
 <br />
 <h3 align="left">GitHub City:</h3>
-<a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2022">2022 </a>
-<a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023"> 2023</a><br />
-<br />
+<a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2022">2022&nbsp;</a>
+<a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023">2023</a><br />
+<hr>
+<h3 align="left">Connect with me:</h3>
+  <p align="left"> <a href="https://twitter.com/hiro_sio_sen" target="blank"><img src="https://img.shields.io/twitter/follow/hiro_sio_sen?logo=twitter&style=for-the-badge" alt="hiro_sio_sen" /></a> <img height="32px" src="https://2.bp.blogspot.com/-4cDI5-IdyKs/WUdY336_nbI/AAAAAAABFAg/xxpZDJEt6ncUrMQwU7Ug-HQA8-eRI36eACLcBGAs/s400/pet_cat_sit.png" /></p>
+</p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=4&width=420)
 
-<br />
+<hr>
+<h3 align="left">About This Page:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiroki1238&repo=hiroki1238&theme=tokyonight&card)](https://github.com/hiroki1238/hiroki1238)
 
