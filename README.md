@@ -4,6 +4,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiroki1238&theme=algolia&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/hiroki1238/github-profile-trophy)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroki1238&show_icons=true&theme=tokyonight&custom_title=Status)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroki1238&layout=compact&langs_count=8&theme=tokyonight&card_width=320)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiroki1238&theme=github_dark)
@@ -58,6 +61,8 @@
 <br />
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=2&width=300)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hiroki1238&repo=hiroki1238&theme=tokyonight&card)](https://github.com/hiroki1238/hiroki1238)
 
 <!--
 **hiroki1238/hiroki1238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
