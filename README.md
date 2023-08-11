@@ -2,10 +2,11 @@
 
 ![](https://komarev.com/ghpvc/?username=hiroki1238&color=721584&style=flat-square)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiroki1238&theme=algolia&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/hiroki1238/github-profile-trophy)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiroki1238&show_icons=true&theme=tokyonight&custom_title=Status)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiroki1238&layout=compact&langs_count=8&theme=tokyonight&card_width=320)
+<img alt="trophy" height="116px" src="https://github-profile-trophy.vercel.app/?username=hiroki1238&theme=algolia&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/hiroki1238/github-profile-trophy" />
+<p align="left"> 
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=hiroki1238&show_icons=true&theme=tokyonight&custom_title=Status" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroki1238&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
+</p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=github_dark)
