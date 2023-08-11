@@ -60,7 +60,7 @@
 <a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023"> 2023</a><br />
 <br />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=2&width=300)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=4&width=420)
 
 <br />
 
