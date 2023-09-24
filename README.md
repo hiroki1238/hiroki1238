@@ -55,7 +55,7 @@
 <a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023">2023</a><br />
 <hr>
 <h3 align="left">Connect with me:</h3>
-  <p align="left"> <a href="https://twitter.com/hiro_sio_sen" target="blank"><img src="https://img.shields.io/twitter/follow/hiro_sio_sen?logo=twitter&style=for-the-badge" alt="hiro_sio_sen" /></a> <img height="32px" src="https://2.bp.blogspot.com/-4cDI5-IdyKs/WUdY336_nbI/AAAAAAABFAg/xxpZDJEt6ncUrMQwU7Ug-HQA8-eRI36eACLcBGAs/s400/pet_cat_sit.png" /></p>
+  <p align="left"> <a href="https://twitter.com/hiroki_taba" target="blank"><img src="https://img.shields.io/twitter/follow/hiroki_taba?logo=twitter&style=for-the-badge" alt="hiroki_taba" /></a> <img height="32px" src="https://2.bp.blogspot.com/-4cDI5-IdyKs/WUdY336_nbI/AAAAAAABFAg/xxpZDJEt6ncUrMQwU7Ug-HQA8-eRI36eACLcBGAs/s400/pet_cat_sit.png" /></p>
 </p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=4&width=420)
