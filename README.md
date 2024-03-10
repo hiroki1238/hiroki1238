@@ -43,10 +43,9 @@
 </p>
 <br/>
 
-- I’m currently learning **Go, Ruby, Rails, React** and more.
+- I’m currently learning **Go, React** and more.
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="30" height="30"/> </a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="30" height="30"/> </a>
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="30" height="30"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a>
 
 <br />
@@ -57,8 +56,6 @@
 <h3 align="left">Connect with me:</h3>
   <p align="left"> <a href="https://twitter.com/hiroki_taba" target="blank"><img src="https://img.shields.io/twitter/follow/hiroki_taba?logo=twitter&style=for-the-badge" alt="hiroki_taba" /></a> <img height="32px" src="https://2.bp.blogspot.com/-4cDI5-IdyKs/WUdY336_nbI/AAAAAAABFAg/xxpZDJEt6ncUrMQwU7Ug-HQA8-eRI36eACLcBGAs/s400/pet_cat_sit.png" /></p>
 </p>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31veaddytf5fqjayscx5izq67zmu&count=4&width=420)
 
 <hr>
 <h3 align="left">Latest Blog Posts:</h3>
