@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/tabamarine" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin" width="20" height="20"/></a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/wantedly-1x0385d7zcxgv6bzwhyffj.png/wantedly-w4k9pd8gaqic8655wrfw1m.png?_a=DAJFJtWIZAAC" alt="wantedly" width="20" height="20"/></a> 
   <a href="https://youtrust.jp/users/5afc6b921ddb367e6c88a1391686cd80" target="_blank" rel="noreferrer"> <img src="https://cdn.brandfetch.io/iduPsRJBZK/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="youtrust" width="20" height="20"/></a>
-   <a href="https://x.com/tabamarine220" target="_blank" rel="noreferrer"> <img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="x_twitter" width="20" height="20"/> </a>
+   <a href="https://x.com/tabamarine220" target="_blank" rel="noreferrer"> <img src="https://about.x.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" alt="x_twitter" width="16" height="16"/> </a>
 </p>
 
 <img width="630" alt="スクリーンショット 2025-03-01 2 52 39" src="https://github.com/user-attachments/assets/6620547f-50c5-4998-b6ba-c5a5e719cdb6" />
