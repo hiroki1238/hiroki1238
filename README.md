@@ -1,17 +1,28 @@
 ### Hi there 🐥
+<!--
+<img width="630" alt="スクリーンショット 2025-03-01 2 47 35" src="https://github.com/user-attachments/assets/42ffe6d1-c9c3-4994-91b5-fb91dcb18347" />
+-->
+
+<img width="630" alt="スクリーンショット 2025-03-01 2 52 39" src="https://github.com/user-attachments/assets/6620547f-50c5-4998-b6ba-c5a5e719cdb6" />
+
 
 ![](https://komarev.com/ghpvc/?username=hiroki1238&color=9966ff&style=flat-square)
-
+ 
 <img alt="trophy" height="116px" src="https://github-profile-trophy.vercel.app/?username=hiroki1238&theme=algolia&no-bg=true&no-frame=true&row=1&column=7)](https://github.com/hiroki1238/github-profile-trophy" />
+
+<!--
 <p align="left"> 
   <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=hiroki1238&show_icons=true&theme=tokyonight&custom_title=Status" />
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiroki1238&layout=compact&langs_count=8&theme=tokyonight&card_width=320" />
 </p>
+-->
 
+<!--
 <p align="left"> 
   <img alt="repos langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiroki1238&theme=tokyonight" />
   <img alt="commit Langs" width="410px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiroki1238&theme=tokyonight" />
 </p>
+-->
 <hr>
 
 <h3 align="left">Some Tools I Have Used and Learned:</h3>
@@ -55,7 +66,7 @@
 <a href="https://honzaap.github.io/GithubCity/?name=hiroki1238&year=2023">2023</a><br />
 <hr>
 <h3 align="left">Connect with me:</h3>
-  <p align="left"> <a href="https://twitter.com/hiroki_taba" target="blank"><img src="https://img.shields.io/twitter/follow/hiroki_taba?logo=twitter&style=for-the-badge" alt="hiroki_taba" /></a> <img height="32px" src="https://2.bp.blogspot.com/-4cDI5-IdyKs/WUdY336_nbI/AAAAAAABFAg/xxpZDJEt6ncUrMQwU7Ug-HQA8-eRI36eACLcBGAs/s400/pet_cat_sit.png" /></p>
+  <p align="left"> <a href="https://twitter.com/tabamarine220" target="blank"><img src="https://img.shields.io/twitter/follow/tabamarine220?logo=twitter&style=for-the-badge" alt="tabamarine220" /></a> <img height="32px" src="https://2.bp.blogspot.com/-4cDI5-IdyKs/WUdY336_nbI/AAAAAAABFAg/xxpZDJEt6ncUrMQwU7Ug-HQA8-eRI36eACLcBGAs/s400/pet_cat_sit.png" /></p>
 </p>
 
 <hr>
